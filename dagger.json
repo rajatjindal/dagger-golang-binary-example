@@ -1,0 +1,12 @@
+{
+  "name": "dagger-golang-binary-example",
+  "sdk": "go",
+  "dependencies": [
+    {
+      "name": "go",
+      "source": "github.com/sagikazarmark/daggerverse/go@b2bd806a2c43a5a58459aa7969d0e3740e66ec43"
+    }
+  ],
+  "source": ".dagger",
+  "engineVersion": "v0.13.0"
+}
